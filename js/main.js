@@ -8,7 +8,7 @@ const SERVER_LOCKED = true;
 
 const data = [
     {
-        image: '/assets/images/slide-1.jpg',
+        image: 'assets/images/slide-1.jpg',
         place: 'Dhaka City',
         title1: 'DHAKA',
         title2: 'BY NIGHT',
@@ -16,7 +16,7 @@ const data = [
             'At the heart of Bangladesh, Dhaka comes alive after sunset with glowing bridges, bustling streets, and rivers reflecting the city’s restless energy. A place where tradition and modern life move side by side.'
     },
     {
-        image: '/assets/images/slide-2.jpg',
+        image: 'assets/images/slide-2.jpg',
         place: 'Rural Bangladesh',
         title1: 'FIELDS',
         title2: 'OF GOLD',
@@ -24,7 +24,7 @@ const data = [
             'Endless mustard fields stretch across the countryside, painting rural Bangladesh in shades of yellow and green. Life here flows gently, shaped by seasons, soil, and simplicity.'
     },
     {
-        image: '/assets/images/slide-3.jpg',
+        image: 'assets/images/slide-3.jpg',
         place: 'Kyoto, Japan',
         title1: 'KYOTO',
         title2: 'HORIZON',
@@ -32,7 +32,7 @@ const data = [
             'Ancient temples rise above the city as Kyoto blends centuries of tradition with modern life. From quiet hills to historic streets, the city carries Japan’s cultural soul.'
     },
     {
-        image: '/assets/images/slide-4.jpg',
+        image: 'assets/images/slide-4.jpg',
         place: 'Mount Fuji',
         title1: 'FUJI',
         title2: 'SUNRISE',
@@ -40,7 +40,7 @@ const data = [
             'As the sun breaks through the horizon, Mount Fuji stands calm and timeless. A symbol of Japan’s natural beauty, watched from temples, lakes, and distant towns.'
     },
     {
-        image: '/assets/images/slide-5.jpg',
+        image: 'assets/images/slide-5.jpg',
         place: 'Seoul, South Korea',
         title1: 'SEOUL',
         title2: 'LIGHTS',
@@ -48,7 +48,7 @@ const data = [
             'Seoul shines after dark with vibrant streets, glowing signs, and cultural celebrations. A city where history, technology, and creativity move at the same fast pace.'
     },
     {
-        image: '/assets/images/slide-6.jpg',
+        image: 'assets/images/slide-6.jpg',
         place: 'Seoul Skyline',
         title1: 'CITY',
         title2: 'OF NIGHT',
@@ -56,7 +56,7 @@ const data = [
             'From high above, Seoul reveals its endless skyline framed by hills and rivers. The city pulses with life, offering energy, ambition, and unforgettable views.'
     },
     {
-        image: '/assets/images/slide-7.jpg',
+        image: 'assets/images/slide-7.jpg',
         place: 'San Francisco',
         title1: 'GOLDEN',
         title2: 'GATE',
@@ -64,7 +64,7 @@ const data = [
             'The Golden Gate Bridge stretches across the bay, connecting city and sea. San Francisco’s iconic skyline meets rolling hills and coastal winds in perfect balance.'
     },
     {
-        image: '/assets/images/slide-8.jpg',
+        image: 'assets/images/slide-8.jpg',
         place: 'New York City',
         title1: 'NEW',
         title2: 'YORK',
